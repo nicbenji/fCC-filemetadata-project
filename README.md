@@ -1,5 +1,7 @@
 # File Metadata Microservice
+https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice
 
-**Project implementation - NOT BOILERPLATE!!**
+Build a full stack JavaScript app that is functionally similar to this: https://file-metadata-microservice.freecodecamp.rocks.
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+HINT: You can use the multer npm package to handle file uploading.
+
